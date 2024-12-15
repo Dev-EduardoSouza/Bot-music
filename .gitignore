@@ -1,5 +1,14 @@
+# Ignorar o arquivo .env (geralmente usado para variáveis de ambiente)
 .env
+
+# Ignorar a pasta .vscode (configurações do VSCode específicas do projeto)
 .vscode/
+
+# Ignorar a pasta node_modules (dependências instaladas via npm)
 .node_modules
+
+# Ignorar a pasta SoundTrack (caso seja uma pasta de músicas ou arquivos temporários)
 .SoundTrack
+
+# Ignorar o arquivo config.json (configurações específicas, como credenciais ou chaves)
 .config.json
