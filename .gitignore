@@ -5,10 +5,10 @@
 .vscode/
 
 # Ignorar a pasta node_modules (dependências instaladas via npm)
-.node_modules
+node_modules/
 
-# Ignorar a pasta SoundTrack (caso seja uma pasta de músicas ou arquivos temporários)
-.SoundTrack
+# Ignorar a pasta SoundTrack 
+SoundTrack/
 
 # Ignorar o arquivo config.json (configurações específicas, como credenciais ou chaves)
-.config.json
+config.json
